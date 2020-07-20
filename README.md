@@ -12,6 +12,6 @@ I love writing code that is:
 * Well structured
 
 ## My Github Stats
-![](https://github-readme-stats.vercel.app/api?username=JuankBregar&show_icons=true&title_color=000&bg_color=fff)
+![](https://github-readme-stats.vercel.app/api?username=JuankBregar&show_icons=true&title_color=000&bg_color=efefef)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=JuankBregar)](https://github.com/JuankBregar/github-contribution-stats/)
