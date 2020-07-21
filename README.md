@@ -1,11 +1,11 @@
 # Hello there!
 ## May the force be with you.
-I'm Juan, a software engineer based in Costa Rica currently working for a company i cannot name cause... i signed some papers, crazy don't you think? I'm all about state-of-the-art technologies and software development tools, specially Node JS based frameworks. PC gamer and huge Star Wars fan.
+I'm Juan, a software engineer based in Costa Rica currently working for a company i cannot name cause... i signed some papers, you know how it goes. I'm all about state-of-the-art technologies and software development tools, specially Node JS based frameworks. PC gamer and huge Star Wars fan.
 
 ## How i work
 My work is oriented to fullfith project & quality goals (both personal and company's), mindful of deadlines and clients expectation, capable to perform under pressure.
 
-I love writing code that is:
+I love writing a code that is, and i list:
 * Readable
 * Maintainable
 * High performance
